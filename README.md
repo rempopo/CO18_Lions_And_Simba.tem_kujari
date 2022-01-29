@@ -1,6 +1,6 @@
-# CO20_Suomi_Forest.tem_ihantalaw
+# CO18_Lions_And_Simba.tem_kujari
 
-Взвод морской пехоты РФ атакуюет финские позиции
+Наёмники из Коммандо 5 проводят рейд по территории боевиков Симба
 
 
 <img src='https://github.com/rempopo/CO18_Lions_And_Simba.tem_kujari/blob/main/overview.jpg?raw=true' />	
